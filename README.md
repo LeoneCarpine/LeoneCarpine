@@ -51,7 +51,7 @@ Website institucional com HTML, CSS e JS, focado em adoção e doações.
 ## 📫 Contato
 
 - 📧 Email: leone.carpine@gmail.com  
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/leonecarpine/](https://www.linkedin.com/in/leone-carpine-37a51a337/)) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/leone-carpine-37a51a337/) 
 
 ---
 
