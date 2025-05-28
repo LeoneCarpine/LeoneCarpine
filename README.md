@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
 💡 Apaixonado por desenvolvimento web, automações e projetos com Arduino <br>
-🚀 Atualmente focado em projetos com <strong>HTML, CSS, JavaScript e Python</strong>
+🚀 Atualmente focado em projetos com <strong>HTML, CSS, JavaScript e Java</strong>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Website institucional com HTML, CSS e JS, focado em adoção e doações.
 ## 📫 Contato
 
 - 📧 Email: leone.carpine@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/leonecarpine/) *(caso tenha)*  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/leonecarpine/](https://www.linkedin.com/in/leone-carpine-37a51a337/)) 
 
 ---
 
