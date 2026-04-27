@@ -52,6 +52,13 @@ Website institucional focado em adoção e doações.
 
 ---
 
+### 📌 Sistema de Gestão de Listas de Compras
+Sistema de Gestão de Listas de compras Kotlin com Android Studio e autenticação com Firebase e recuperação de senha.
+
+🔗 [Ver projeto](https://github.com/LeoneCarpine/Lista-de-Compras-App)
+
+---
+
 ## 📚 Atualmente estudando
 
 ✅ Dart  
