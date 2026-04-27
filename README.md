@@ -1,10 +1,10 @@
-<h1 align="center">Olá! 👋 Eu sou o Leone Carpine</h1>
+<h1>Olá, eu sou Leone Carpine 👋</h1>
 
-<p align="center">
-🎓 Estudante de Engenharia de Software <br>
-💡 Apaixonado por desenvolvimento web, automações e projetos com Arduino <br>
-🚀 Atualmente focado em projetos com <strong>HTML, CSS, JavaScript e Java</strong>
-</p>
+🎓 Estudante de Engenharia de Software na UNAERP
+📱 Focado em Desenvolvimento Mobile
+🚀 Atualmente estudando Flutter e Dart
+🤖 Conhecimento em Kotlin + Android Studio
+🔥 Firebase | APIs REST | Git | GitHub
 
 ---
 
