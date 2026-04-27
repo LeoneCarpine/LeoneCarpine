@@ -41,21 +41,14 @@ Tenho interesse em construir aplicativos modernos, com boa experiência de usuá
 ### 📌 Sistema de Gestão Financeira Pessoal
 Aplicação em Java com Swing para controle financeiro pessoal.
 
-🔗 [Ver projeto](https://github.com/LeoneCarpine/seu-projeto)
-
----
-
-### 📌 Projeto Arduino: LED e LDR
-Sistema de transmissão de mensagens codificadas com LED e leitura via sensor LDR.
-
-🔗 [Ver projeto](https://github.com/LeoneCarpine/seu-projeto)
+🔗 [Ver projeto]([https://github.com/LeoneCarpine/seu-projeto](https://github.com/LeoneCarpine/Gestao-Financeira-Pessoal-Exame))
 
 ---
 
 ### 📌 Website para ONG de Cães Carentes
 Website institucional focado em adoção e doações.
 
-🔗 [Ver projeto](https://github.com/LeoneCarpine/seu-projeto)
+🔗 [Ver projeto]([https://github.com/LeoneCarpine/seu-projeto](https://github.com/zGardiano/AbrigoAnjosFieis))
 
 ---
 
