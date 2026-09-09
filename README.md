@@ -11,13 +11,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e estou direcionando minha carreira para o desenvolvimento mobile.
+Sou estudante do último ano de **Engenharia de Software na UNAERP**, com foco em **Desenvolvimento Mobile**.
 
-Atualmente venho aprofundando meus conhecimentos em **Dart** e **Flutter**, além de possuir base em desenvolvimento Android nativo com **Kotlin** e **Android Studio**.
+Atualmente desenvolvo projetos utilizando **Flutter e Dart**, além de possuir experiência acadêmica com desenvolvimento Android utilizando **Kotlin, Android Studio e Firebase**.
 
-Tenho interesse em construir aplicativos modernos, com boa experiência de usuário, código limpo e integração com serviços como **Firebase** e **APIs REST**.
+Tenho buscado aprofundar meus conhecimentos em arquitetura de software, consumo de APIs, autenticação, banco de dados e boas práticas de desenvolvimento, aplicando esses conceitos em projetos acadêmicos e pessoais.
 
-🎯 Buscando minha primeira oportunidade profissional como **Desenvolvedor Mobile Jr** ou **Estagiário em Desenvolvimento Mobile**.
+📱 Foco atual: **Flutter | Dart | Mobile Development**
+
+🎯 Objetivo: iniciar minha carreira profissional como **Desenvolvedor Mobile Jr**.
 
 ---
 
