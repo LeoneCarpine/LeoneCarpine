@@ -13,7 +13,7 @@
 
 Sou estudante do último ano de **Engenharia de Software na UNAERP**, com foco em **Desenvolvimento Mobile**.
 
-Atualmente desenvolvo projetos utilizando **Flutter e Dart**, além de possuir experiência acadêmica com desenvolvimento Android utilizando **Kotlin, Android Studio e Firebase**.
+Atualmente desenvolvo projetos utilizando **Flutter, Dart E SupaBase**, além de possuir experiência acadêmica com desenvolvimento Android utilizando **Kotlin, Android Studio e Firebase**.
 
 Tenho buscado aprofundar meus conhecimentos em arquitetura de software, consumo de APIs, autenticação, banco de dados e boas práticas de desenvolvimento, aplicando esses conceitos em projetos acadêmicos e pessoais.
 
